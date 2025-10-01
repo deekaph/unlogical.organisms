@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "<% tp.file.title %>)"
+title: A Midlife Redefinition
 categories: notes
 ---
 A Mid Life Redefiniton
+---
+
 
 My kids said that I was having a midlife crisis.
 
