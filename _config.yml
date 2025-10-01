@@ -1,0 +1,24 @@
+# Site metadata
+name: "Unlogical Organisms"
+description: "Philosophy & technology notes from the smol web"
+url: "https://unlogical.org"
+
+
+# Build
+markdown: kramdown
+theme: null
+plugins: [] # keep empty for maximum Pages compatibility
+
+
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title/
+
+
+# Collections (posts are default)
+# future: false # publish-dated posts in the future won't render
+
+
+# Exclude dev helpers
+exclude:
+- make_post.sh
+- make_post.ps1

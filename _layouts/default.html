@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.name }}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="icon" href="/assets/img/logo.svg">
+</head>
+<body>
+<header class="term-wrap">
+<div class="brand">
+<a href="/" class="logo" aria-label="Home">
+<svg width="20" height="20" viewBox="0 0 24 24" role="img" aria-hidden="true">
+<path d="M3 3h18v18H3zM6 6h12v12H6z"/>
+</svg>
+<span>UNLOGICAL ORGANISMS</span>
+</a>
+<nav class="nav">
+<a href="/">/index</a>
+<a href="/about">/about</a>
+<a href="https://github.com/{{ site.github_username | default: '' }}">/repo</a>
+</nav>
+</div>
+</header>
+<main class="term-wrap">
+{{ content }}
+</main>
+<footer class="term-wrap foot">
+<p>© {{ "now" | date: "%Y" }} {{ site.name }} · Served in plaintext spirit · <a href="/feed.xml">RSS</a></p>
+</footer>
+</body>
+</html>
