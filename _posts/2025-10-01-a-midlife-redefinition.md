@@ -45,10 +45,22 @@ Thankfully, the universe had provided me with an employer who was flexible and I
 
 This is how this oldschool hacker kiddy and audio engineer ended up in Relationship Management for a office technology company for a decade and a half. The benefits were good - extended health, drug, gas card... but most importantly, for those years while I was juggling managing a house plus three special little dudes, had I been required to punch the clock, we might not have made it. 
 
-Or, if I had, my kids might not have ended up as the awesome young adults that they are.
+Or, if I had, then I wouldn't have been able to have committed the time my kids needed to have ended up as the awesome young adults that they are.
 
 We can only speculate.
 
-So as first one and then another and then another graduated, it dawned upon me that I had more freedoms. I didn't *need* to drive a minivan. 
+So as first one and then another and then another graduated, it dawned upon me that I had more freedoms. I didn't *need* to drive a minivan. I *could* ride a motorcycle as a mode of transit, or heck, even for *fun* in my "spare time".
+
+Game changer. 
+
+Sure, it probably also has something to do with the view on mortality you develop in your 40s. By the time you are in your mid 40s, you have already had a few friends and contemporaries die. You have seen your slightly older friends move into retirement and thought "holy shit that's coming for me too." You fall off your mountain bike and it costs you a whole season of riding instead of a weekend and a dozen beers. Everything is more complex.
+
+What it isn't, however, is a desperate attempt to cling to my youth. 
+
+I have actually loved growing older. I don't dye my hair. I exercise, but it is because if I stop moving for too long then it hurts to start moving again, not because I am trying to impress the ladies. Where I am today is way, way better than where I was half my life ago, even if my joints are a little more stiff. 
+
+
+
+
 
 
